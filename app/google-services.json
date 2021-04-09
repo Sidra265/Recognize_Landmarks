@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "366407843031",
+    "project_id": "recognize-landmarks",
+    "storage_bucket": "recognize-landmarks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366407843031:android:6e9b24171a70bcd3cb4492",
+        "android_client_info": {
+          "package_name": "com.recognize.landmarks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366407843031-vguou69vri6ek9dfvknriffrk6re54ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recognize.landmarks",
+            "certificate_hash": "02b3a199ec146c2c04d96d43dbf62ef2e1909a3e"
+          }
+        },
+        {
+          "client_id": "366407843031-o8elrsc2a36aa045m32thknpoojd1u7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR7qSTJWeKIz5vSkNJInXcqAmWTWJVVoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366407843031-o8elrsc2a36aa045m32thknpoojd1u7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
